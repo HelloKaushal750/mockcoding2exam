@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": 447869,
+      "full_name": "ravi",
+      "email": "ravi@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": 646560,
+      "full_name": "Kaushal Ramesh Vishwakarma",
+      "email": "kaushal@gmail.com",
+      "password": "12345"
+    }
+  ],
+  "details": [
+    {
+      "id": 5423276,
+      "type": "Income",
+      "category": "Salary",
+      "amount": "2000",
+      "date": "2023-06-06",
+      "userId": 447869
+    },
+    {
+      "id": 4395081,
+      "type": "Expense",
+      "category": "Housing",
+      "amount": "3000",
+      "date": "2023-06-06",
+      "userId": 447869
+    },
+    {
+      "id": 1262581,
+      "type": "Income",
+      "category": "Salary",
+      "amount": "20000",
+      "date": "2023-06-21",
+      "userId": 646560
+    },
+    {
+      "id": 1707310,
+      "type": "Expense",
+      "category": "Salary",
+      "amount": "2000",
+      "date": "2023-06-09",
+      "userId": 646560
+    }
+  ]
+}
